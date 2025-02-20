@@ -1,6 +1,0 @@
-Welcome to the Text File Reader!
-
-This is a sample text file that demonstrates how the application works. You can add more .txt files to the data directory and they will automatically appear on the page.
-
-Feel free to modify this file or add new ones to see them displayed with a nice animation.
-
