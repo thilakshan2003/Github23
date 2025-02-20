@@ -1,0 +1,6 @@
+About This Project
+
+This is a simple Next.js application that reads text files from its source repository and displays them on a page. It uses Server Components for file reading and Tailwind CSS for styling and animations.
+
+The content is displayed in a clean, centered layout with proper spacing and typography.
+
